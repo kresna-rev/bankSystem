@@ -1,2 +1,2 @@
 # bankSystem
-Ini adalah projek coba-coba C++
+***Nama nya juga Orang, jadi suka coba-coba :)***
